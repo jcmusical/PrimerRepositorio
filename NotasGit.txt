@@ -1,0 +1,8 @@
+Creación por primera vez del repositorio de Git en la línea de comandos (Bash)
+echo "# ProyectoPruebaGIT >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/jcmusical/ProyectoPruebaGIT.git
+git push -u origin main
